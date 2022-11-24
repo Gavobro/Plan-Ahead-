@@ -31,11 +31,10 @@
       <p id="currentDay" class="lead"></p>
     </header>
 
-    <div class="container-fluid px-5">
-
 <!-- Added hour collumns from 9AM to 5PM for a full day schedual. -->
       <div class="container">
-        <div id="hour-9" class="row time-block">
+        <div id="hour-9" 
+        class="row time-block">
           <div class="col-2 col-md-1 hour text-center py-3">9AM</div>
           <textarea class="col-8 col-md-10 description" rows="3"></textarea>
           <button class="btn saveBtn col-2 col-md-1" aria-label="save">
@@ -110,6 +109,8 @@
       </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- Added anotehr script below. -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/dayjs@1.11.3/dayjs.min.js"
     integrity="sha256-iu/zLUB+QgISXBLCW/mcDi/rnf4m4uEDO0wauy76x7U="
     crossorigin="anonymous"></script>
