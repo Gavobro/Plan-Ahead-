@@ -49,8 +49,8 @@ function timeBlockColor () {
     })
 } ;
 
-// Fuction used to keep text when the page is refreshed.
+// Function used to keep text when the page is refreshed.
 usePlanner () ;
 
-// Funtion used for cullumn colour change in relation to time.
+// Function used for cullumn colour change in relation to time.
 timeBlockColor () ;
