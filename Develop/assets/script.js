@@ -25,7 +25,7 @@ function usePlanner () {
     }) ;
   }
 
-// Making cullumn colours based off of the current time using the "future", "present", and "past" ids.
+// Making collumn colours based off of the current time using the "future", "present", and "past" ids.
 function timeBlockColor () {
     var hour = moment () .hours () ;
 
