@@ -2,7 +2,7 @@
 This is my workload for the Module 5 Challenge
 
 The URL of the deployed application can be found here!: 
----
+https://gavobro.github.io/Plan-Ahead-/index.html
 
 # What did I do?
 - Created 11 "time/textbox" collumns from 9AM - 5PM using the original code and cloning it multiple times over in the html file.
